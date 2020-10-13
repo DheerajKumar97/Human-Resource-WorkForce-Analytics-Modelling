@@ -1,6 +1,7 @@
-# Human Resource WorkForce Analytics Modelling
-
 ![Alt Text](https://github.com/DheerajKumar97/Human-Resource-WorkForce-Analytics-Modelling/blob/main/HR-Analytics.jpg)
+<BR>
+    
+# Human Resource WorkForce Analytics Modelling
 
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
